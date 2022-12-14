@@ -1,7 +1,7 @@
 [metadata]
 addr = 4506
 size = 1016
-last_change = 1671034235
+last_change = 1671034080
 
 [stack_vars.-1c]
 last_change = 1671022466
@@ -28,13 +28,4 @@ stack_offset_type = 1
 name = "arr"
 type = "short[6]"
 size = 12
-addr = 4506
-
-[stack_vars.-108]
-last_change = 1671034235
-stack_offset = -264
-stack_offset_type = 1
-name = "data_arr"
-type = "long[24]"
-size = 192
 addr = 4506
