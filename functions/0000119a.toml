@@ -1,7 +1,12 @@
 [metadata]
 addr = 4506
 size = 1016
-last_change = 1671034080
+last_change = 1671034189
+
+[header]
+last_change = 1671034189
+name = "main"
+addr = 4506
 
 [stack_vars.-1c]
 last_change = 1671022466
