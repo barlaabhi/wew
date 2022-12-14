@@ -1,4 +1,9 @@
 [metadata]
 addr = 5632
 size = 1
-last_change = 1671034191
+last_change = 1671034192
+
+[header]
+last_change = 1671034192
+name = "fini"
+addr = 5632
